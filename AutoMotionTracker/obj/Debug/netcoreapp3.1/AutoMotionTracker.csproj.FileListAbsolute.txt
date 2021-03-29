@@ -1,0 +1,13 @@
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.exe
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.deps.json
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.runtimeconfig.json
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.runtimeconfig.dev.json
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.dll
+C:\Users\ajont\source\repos\AutoMotionTracker\bin\Debug\netcoreapp3.1\AutoMotionTracker.pdb
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.csprojAssemblyReference.cache
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.AssemblyInfoInputs.cache
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.AssemblyInfo.cs
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.csproj.CoreCompileInputs.cache
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.dll
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.pdb
+C:\Users\ajont\source\repos\AutoMotionTracker\obj\Debug\netcoreapp3.1\AutoMotionTracker.genruntimeconfig.cache
